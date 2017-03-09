@@ -1,5 +1,8 @@
-.score {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
+.field{
+  border-style: solid;
+  height: 30px;
+  width: 60px
 }
+.field-1{display: flex;}
+.field-2{display: flex-row;}
+.field-3{display: inline-flex;}
